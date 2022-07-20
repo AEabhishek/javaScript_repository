@@ -30,3 +30,5 @@
     }
     )
     pro.then((msg)=>{console.log(msg);}).catch((msg)=>{console.log(msg);})
+
+    console.log("Hi");

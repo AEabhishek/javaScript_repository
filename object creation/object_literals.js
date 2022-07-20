@@ -32,4 +32,4 @@ yourself.location = "UK"                           //adding elements to object
 // console.log(yourself["company"]);         //printing the corresponding value of pefrticular property(method2)
 // console.log(yourself.skill);              //printing the array inside the object
 // console.log(yourself.company);              //printing corresponding values of perticular property(m2)
-console.log(yourself.skill[2]);
+console.log(yourself.skill[2]);d

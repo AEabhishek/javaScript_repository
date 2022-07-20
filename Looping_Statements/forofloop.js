@@ -8,3 +8,7 @@ for (var index of arr5) {
 for (const iterator of object) {
     
 }
+
+for (const iterator of object) {
+    
+}

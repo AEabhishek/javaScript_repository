@@ -8,29 +8,30 @@
 // console.log(arr6);
 
 
-// const pi={
-//     f_name:"gravitation",
-//     f_choice:"newton"
-// }
-// const tita = {
-//     f_name :"sine",
-
-//     f_choice : "cosine"
-
-
-// }
-// const pr={...pi,...tita}
-
-// console.log(pr);// value will be overrides the second function
-
-
-
-const terra={
-    f_choice : "rose",
-    f_name :"lilli"
+const pi={
+    f_name:"gravitation",
+    f_choice:"newton",
+    f_value:1000
 }
-const f={...terra}// here spread parameter function take place
-console.log(f);
+const tita = {
+    f_name :"sine",
+
+    f_choice : "cosine"
+
+
+}
+const pr={...pi,}
+
+console.log(pr);// value will be overrides the second function
+
+
+
+// const terra={
+//     f_choice : "rose",
+//     f_name :"lilli"
+// }
+// const f={...terra}// here spread parameter function take place
+// console.log(f);
 
 
 

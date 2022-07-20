@@ -4,7 +4,7 @@ var school = {
 
     sslc : function () {
         console.log(this.s_name+" "+this.p_name);
-        this.diploma.call(school)
+        // this.diploma.call(school)
     }
     
 }
